@@ -1,6 +1,2 @@
-var valor = prompt("¡Hola! Dime tu nombre", "");
-function saludo()
-{
-    var username = nombre.valor;
-    alert("Hola" + username + "!!!")
-}
+var nombre = prompt("¡Hola! Dime tu nombre", "");
+alert("Hola" + nombre + "!!!");
