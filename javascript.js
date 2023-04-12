@@ -1,2 +1,2 @@
-var valor = prompt("Dime tu nombre", "");
+var valor = prompt("¡Hola! Dime tu nombre", "");
 
